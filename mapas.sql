@@ -20,7 +20,7 @@ SET time_zone = "+00:00";
 --
 -- Base de datos: `ixocakuy_mapas`
 --
-
+USE ixocakuy_mapas;
 -- --------------------------------------------------------
 
 --
